@@ -1,0 +1,7 @@
+# Credenciais e sessão — nunca commitar
+.env
+session.json
+
+# Binário e saída
+/processtelegram
+saved_messages.txt
