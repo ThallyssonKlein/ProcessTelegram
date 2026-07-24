@@ -4,7 +4,14 @@ session.json
 
 # Binário e saída
 /processtelegram
+/savelinks
+/savemedia
+/deletesaved
+/deletemedia
 saved_messages.txt
 saved_links.txt
 /tonotion
 *.notion-done
+
+# Mídias baixadas do Saved Messages
+/media/
